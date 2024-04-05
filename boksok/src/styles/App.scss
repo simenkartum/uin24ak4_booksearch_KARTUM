@@ -12,10 +12,10 @@
     will-change: filter;
     transition: filter 300ms;
     &:hover {
-      filter: drop-shadow(0 0 2em #646cffaa);
+      filter: drop-shadow(0 0 2em #141feeaa);
     }
     &.react:hover {
-      filter: drop-shadow(0 0 2em #61dafbaa);
+      filter: drop-shadow(0 0 2em #41a6c1aa);
     }
   }
 
@@ -40,6 +40,6 @@
 }
 
 .read-the-docs {
-  color: #888;
+  color: #b8b6b6;
 }
 
